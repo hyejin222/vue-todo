@@ -1,4 +1,4 @@
-# vue-inflearn
+# vue-todo
 
 ## Project setup
 ```
